@@ -1,5 +1,3 @@
-Certainly! Here's the README file without the code snippets:
-
 ---
 
 # Text Processing Commands README
